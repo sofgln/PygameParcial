@@ -1,6 +1,10 @@
 import pygame
 import os
 
+#vida de cada jugador
+vida_jugador1 = 100
+vida_jugador2 = 100
+
 #dimensiones naves
 naves_ancho, naves_alto = 120,100
 
